@@ -1,110 +1,79 @@
-# 💼 Senior Full Stack Engineer | DevOps Architect | Technical Project Manager
+# 👨‍💻 Sonu | Senior Full Stack Engineer & DevOps Specialist
 
 <div align="center">
-
-### 👋 Hello! I'm Sonu
-
-**Technology Leader** with 5+ years of experience delivering enterprise-grade solutions across the full software development lifecycle. Specializing in architecting scalable systems, optimizing DevOps workflows, and leading high-performing engineering teams to deliver complex technical projects on time and within budget.
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sonu-0a1272367)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:sonusonu60019@gmail.com)
+[![Visits](https://komarev.com/ghpvc/?username=Solo-Player-Kirito&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Solo-Player-Kirito)
 
 </div>
 
----
+## 🚀 Technical Expertise
 
-## 🔹 Core Competencies
+### **Full Stack Development**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### **Technical Leadership**
-- Led cross-functional teams of 8-12 engineers in agile environments
-- Technical roadmap planning and architecture decision-making
-- Stakeholder management and technical requirement gathering
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-### **Full Stack Engineering**
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, Python, C++ (high-performance computing)
-- **Databases:** MongoDB, PostgreSQL, Redis
-- **APIs:** REST, GraphQL, WebSocket
-
-### **DevOps & Cloud Engineering**
-- **Cloud Platforms:** AWS (Certified), GCP
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **Containerization:** Docker, Kubernetes (CKAD certified)
-- **CI/CD:** GitHub Actions, Jenkins, ArgoCD
-- **Monitoring:** Prometheus, Grafana, ELK Stack
-
-### **Project Management**
-- Agile/Scrum methodologies (Certified Scrum Master)
-- JIRA administration and workflow optimization
-- Technical documentation and knowledge transfer
-
----
-
-## 🔥 GitHub Activity
-
-[![GitHub Commitment Metrics](https://github-readme-streak-stats.herokuapp.com/?user=Solo-Player-Kirito&theme=dark&hide_border=true&background=0D1117&stroke=2D7FF9&ring=2D7FF9&fire=F86624&currStreakLabel=2D7FF9)](https://github.com/Solo-Player-Kirito)
-
----
-
-## 📊 Technical Dashboard
+## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/Solo-Player-Kirito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solo-Player-Kirito&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D7FF9&icon_color=F86624&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Development+Metrics"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solo-Player-Kirito&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2D7FF9&text_color=FFFFFF&langs_count=8&exclude_repo=dotfiles"/>
-</a>
-</div>
+  
+[![Sonu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solo-Player-Kirito&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/Solo-Player-Kirito)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solo-Player-Kirito&layout=compact&theme=radical&hide_border=true)](https://github.com/Solo-Player-Kirito)
 
----
-
-## 🛠️ Technical Stack
-
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Expert-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![K8s](https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-Architect-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-
-### **Development**
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-Production-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/C++-Performance-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### **Data & DevOps**
-![MongoDB](https://img.shields.io/badge/MongoDB-Sharding-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Optimized-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
----
-
-## 🏆 Notable Achievements
-
-- **Scaled Infrastructure:** Designed AWS architecture handling 50K+ concurrent users with 99.99% uptime
-- **Cost Optimization:** Reduced cloud costs by 40% through infrastructure right-sizing and spot instances
-- **Process Improvement:** Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes
-- **Team Leadership:** Mentored 5 junior developers to senior roles within 2 years
-
----
-
-## 📈 Contribution Analytics
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solo-Player-Kirito&theme=github-dark&hide_border=true&area=true&custom_title=Development+Activity)](https://github.com/Solo-Player-Kirito)
-
----
-
-<div align="center">
-
-## 🌱 Continuous Learning
-
-- **Advanced Cloud Architectures:** Multi-region deployments, service mesh implementations
-- **AI Integration:** Building LLM-powered applications with RAG architectures
-- **Performance Engineering:** Benchmarking and optimizing high-traffic systems
+[![GitHub Streak](https://streak-stats.demolab.com?user=Solo-Player-Kirito&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
----
+## 💼 Professional Experience
 
-## 📫 Professional Contact
+### **Full Stack Developer @ SampurnaKart Innovations** *(Aug 2023 - Present)*
+- Architected scalable backend systems handling 50K+ monthly users
+- Implemented CI/CD pipelines reducing deployment time by 70%
+- Optimized MongoDB queries improving API response times by 40%
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonu.kumar@example.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+### **Technical Lead Projects**
+#### **Adoptive Platform** *(Sep 2024 - Jan 2025)*
+- Built Node.js backend with JWT authentication
+- Developed scheduling system with email notifications
+- Deployed on AWS with Docker containerization
+
+#### **Sadhunity Anand Foundation** *(Dec 2024 - Mar 2025)*
+- Integrated Razorpay payment gateway
+- Created AWS S3 storage system for media files
+- Developed admin analytics dashboard
+
+## 🏆 Certifications
+- AWS Certified Cloud Practitioner
+- Docker Certified Associate
+- MongoDB University Certification
+
+## 🔧 Recent Projects
+
+| Project | Tech Stack | Key Features |
+|---------|------------|--------------|
+| [Reva Global](https://revaglobal.in) | Next.js, Node.js, MongoDB | Form handling, AWS S3 integration |
+| [Multi-Service Platform](https://github.com/Solo-Player-Kirito) | React, Express, Docker | Microservices architecture |
+| [E-commerce Backend](https://github.com/Solo-Player-Kirito) | Node.js, MySQL, Redis | Payment integration, Caching |
+
+## 📫 Let's Connect
+- **Portfolio**: [Under Development]()
+- **Blog**: [Medium/Tech Articles]()
+- **Open for**: Technical collaborations, Mentorship, Full-time opportunities
+
+<div align="center">
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
+
+</div>
